@@ -41,6 +41,4 @@
   </tr>
 </table>
 
-<h2 style="text-align: center;">
-  <a href="https://incharilla.site">My Website</a>
-</h2>
+<h2 align="center" href="https://incharilla.site">My Website</h2>
