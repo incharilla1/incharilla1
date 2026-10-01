@@ -17,7 +17,7 @@ I build gorilla tag mods and update old mods for current game versions.
     <th>ShibaGT Genesis Reborn</th>
   </tr>
   <tr>
-    <td>Custom hats and materials for Gorilla Tag</td>
+    <td>Custom hats and mats for Gorilla Tag</td>
     <td>Custom shirts for Gorilla Tag</td>
     <td>ShibaGT Genesis Reborn</td>
   </tr>
