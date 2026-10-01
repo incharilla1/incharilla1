@@ -13,12 +13,18 @@ I build gorilla tag mods and update old mods for current game versions.
 <table align="center">
   <tr>
     <th>GorillaCosmetics</th>
+    <th>Gorilla Shirts</th>
+    <th>ShibaGT Genesis Reborn</th>
   </tr>
   <tr>
     <td>Custom hats and materials for Gorilla Tag</td>
+    <td>Custom shirts for Gorilla Tag</td>
+    <td>ShibaGT Genesis Reborn</td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/incharilla1/GorillaCosmetics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Gorilla Tag" /></a></td>
+    <td align="center"><a href="https://github.com/incharilla1/GorillaCosmetics"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GorillaCosmetics on GitHub" /></a></td>
+    <td align="center"><a href="https://github.com/incharilla1/GorillaShirts"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Gorilla Shirts on GitHub" /></a></td>
+    <td align="center"><a href="https://github.com/incharilla1/ShibaGT-Reborn"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="View ShibaGT Genesis Reborn on GitHub" /></a></td>
   </tr>
 </table>
 
