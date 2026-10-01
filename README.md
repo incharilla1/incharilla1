@@ -1,6 +1,4 @@
-<h1 align="center">incharilla1</h1>
-
-<h2 align="center">Projects</h2>
+<h1 align="center">Projects</h1>
 
 <table align="center">
   <tr>
