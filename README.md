@@ -1,11 +1,5 @@
 <h1 align="center">incharilla1</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#" />
-  <img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=for-the-badge" alt="Visual Studio 2026" />
-</p>
-
 <h2 align="center">Projects</h2>
 
 <table align="center">
