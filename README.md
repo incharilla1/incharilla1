@@ -22,6 +22,7 @@
 
 <table align="center">
   <tr>
+    <th>Rust<th>
     <th>C#</th>
     <th>Unity</th>
     <th>Visual Studio 2026</th>
