@@ -22,16 +22,16 @@
 
 <table align="center">
   <tr>
-    <th>Rust<th>
+    <th>Rust</th>
     <th>C#</th>
     <th>Unity</th>
     <th>Visual Studio 2026</th>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust" alt="Rust" /></td>
-    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#" /></td>
-    <td><img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></td>
-    <td><img src="https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=for-the-badge" alt="Visual Studio 2026" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge" alt="C#" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Visual_Studio_2026-5C2D91?style=for-the-badge" alt="Visual Studio 2026" /></td>
   </tr>
 </table>
 
